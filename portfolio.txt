@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio></title>
+    <style>
+        nav {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: rgb(199, 237, 160);
+            position: sticky;
+            top: 0%;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #4CAF50;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        section {
+            padding: 20px 0;
+            border-bottom: 1px solid #4015ec;
+        }
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            background-color: #4c96af;
+            color: #f2e6e6;
+        }
+
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+
+    <nav>
+        <a href="#about"><h2>About Me</h2></a>
+        <a href="#projects"><h2>Projects</h2></a>
+        <a href="#contact"><h2>Contact</h2></a>
+        <a href="#skills"><h2>Skills</h2></a>
+        <a href="#known languages"><h2>Known Languages</h2></a>
+        <a href="#communication skill"><h2>Communication Language</h2></a>
+    </nav>
+
+    <div class="container">
+        <section id="about">
+            <div id="pic">
+                <h2>About Me</h2>
+                <td width=40%>
+                <img src="https://media.istockphoto.com/id/1196702694/photo/designers-drawing-website-ux-app-development.jpg?s=612x612&w=0&k=20&c=nMyBxZuA19Lfow_eiUpZ1UAgibB4VJgR6t_7_e-tyMc="height="300" width="400">
+                </td>
+                <td width=60%>
+                    <p>Hello! I'm KARTHIKADEVI. I have a passion with UI/UX Design With 2 years of experience in Designing field, I have honed my skills in Designing. I love to sing and play cricket.I can make easily accessible and interactive designs.</br></p>
+                    I can make efficient and compact code which will be very useful to users.It makes a easy understand to any of the people.<br>
+                    </td>
+                </section>
+        </tr>
+        </table>
+        <body>
+        <table>
+        <section id="known_languages">
+            <div id="pic">
+            <h2><em><u>Known_Languages</u></em></h2>
+            <td width="60%">
+            <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Best-Programming-Languages-to-Start-Learning-Today.jpg"height="300" width="400">
+            </td>
+            <td widht="40%">
+            <p><i><h4><center>1.Python    </center></h4></i></p>
+            <p><i><h4><center>2.JavaScript</center></h4></i></p>
+            <p><i><h4><center>3.Java </center></h4></i></p>
+            <p><i><h4><center>4.C </center></h4></i></p>
+            <p><i><h4><center>5.HTML</center></h4></i></p>
+            <p><i><h4><center>6.CSS</center></h4></i></p>
+            </td>
+        </section>
+        </table>
+        </body>
+
+        <body>
+        <table>
+
+
+        <section id="communication_language">
+            <div id="pic">
+            <h2><em><u>Communication_Language</u></em></h2>
+            <td width=" 40%">
+            <img src="https://media.gettyimages.com/id/1365436662/photo/successful-partnership.jpg?s=612x612&w=gi&k=20&c=0DB2gCTAAFe2WoUjilBj6S2vstKVGNVyogFn6Hfj4FM="height="300" width="400">
+            </td>
+            <td width = 60%>
+            <p><i><center>1.Tamil</center></i></p>
+            <p><i><center>2.English</center></i></p>
+            <p><i><center>3.Hindi</center></i></p>
+            <p><i><center>4.Telugu</center></i></p>
+            <p><i><center>5.spanish</center></i></p>
+            </td>
+        </table>
+        </body>
+        </section>
+        
+        <body>
+        <table>
+        <section id="projects">
+            <h2><em><u>Projects</u></em></h2>
+            <div class="project">
+                <h3>Projects</h3>
+                <td width="60%">
+                <img src="https://images.unsplash.com/photo-1572177812156-58036aae439c?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9"height="300" width="400">
+                </td>
+                <td width="40%">
+                <p><i><center>1.Desining web page for food delivery</center></i></p>
+                <p><i><center>2.Desining login page for college website</center></i></p>
+                <p><i><center>3.Designing web page for dress ordering app</center></i></p>
+                <p><i><center>4.designig logo for startup company</center></i></p>
+                </td>
+            </div>
+        </section>
+        </table>
+        </body>
+
+        <body>
+        <table>
+
+
+        <section id="skills">
+            <div id="pic">
+                <h2><em><u>skills</u></em></h2>
+                <td width="40%">
+                <img src="https://media.istockphoto.com/id/1388635225/photo/businessman-click-on-skills.jpg?s=612x612&w=0&k=20&c=lsCABr8nyaj9E2gFnAuo5V0V_JnGz4d43IZVheP7eoo="height="300" width="400">
+                </td>
+                <td>
+                <p><i><center>UI/UX Design</center></i></p>
+                <p><i><center>Web Designing</center></i></p>
+                <p><i><center>FullStack Development</center></i></p>
+                <p><i><center>Graphic Desgining</center></i></p>
+                <p><i><center>Data Anallysis</center></i></p>
+                </td>
+
+
+        </section>
+        </table>
+        </body>
+        <section id="contact">
+            <h2><em><u>Contact</u></em></h2>
+            <p>If you would like to get in touch, please email me at <a href="mailto:karthi12@gmail.com">karthi12@gmail.com</a>.</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Karthikadevi. All rights reserved.</p>
+    </footer>
+</body>
+</html>
